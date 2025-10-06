@@ -29,3 +29,12 @@ Exercise
 
 10. Write a program to convert user-given hectares into square meters  
     Create a C program that accepts an area in hectares from the user and converts it into square meters. Display the result with appropriate units. (Hint: 1 hectare = 10,000 square meters)
+
+11. write a program to swap 2 variable's value without using 3rd variable. 
+
+12 write a program to calculate area of rectangle using given length and width.
+
+13 write a program to calculate area of triangle using given base and height
+
+14 write a program to calculate area of circle using given radius 
+
