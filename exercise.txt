@@ -1,0 +1,31 @@
+Exercise 
+
+1. Write a program to convert user-given centimeters into meters  
+   Develop a C program that takes a length in centimeters as input from the user and converts it into meters. Display the result with appropriate units. (Hint: 1 meter = 100 centimeters)
+
+2. Write a program to convert user-given liters into milliliters  
+   Create a C program that accepts a volume in liters from the user and converts it into milliliters. Display the result with appropriate units. (Hint: 1 liter = 1000 milliliters)
+
+3. Write a program to convert user-given miles into kilometers  
+   Develop a C program that takes a distance in miles as input from the user and converts it into kilometers. Display the result with appropriate units. (Hint: 1 mile = 1.60934 kilometers)
+
+4. Write a program to convert user-given ounces into grams  
+   Create a C program that accepts a weight in ounces from the user and converts it into grams. Display the result with appropriate units. (Hint: 1 ounce = 28.3495 grams)
+
+5. Write a program to convert user-given feet into centimeters  
+   Develop a C program that takes a length in feet as input from the user and converts it into centimeters. Display the result with appropriate units. (Hint: 1 foot = 30.48 centimeters)
+
+6. Write a program to convert user-given pounds into kilograms  
+   Create a C program that accepts a weight in pounds from the user and converts it into kilograms. Display the result with appropriate units. (Hint: 1 pound = 0.453592 kilograms)
+
+7. Write a program to convert user-given millimeters into inches  
+   Develop a C program that takes a length in millimeters as input from the user and converts it into inches. Display the result with appropriate units. (Hint: 1 inch = 25.4 millimeters)
+
+8. Write a program to convert user-given gallons into liters  
+   Create a C program that accepts a volume in gallons from the user and converts it into liters. Display the result with appropriate units. (Hint: 1 gallon = 3.78541 liters)
+
+9. Write a program to convert user-given Celsius into Fahrenheit  
+   Develop a C program that takes a temperature in Celsius as input from the user and converts it into Fahrenheit. Display the result with appropriate units. (Hint: °F = (°C × 9/5) + 32)
+
+10. Write a program to convert user-given hectares into square meters  
+    Create a C program that accepts an area in hectares from the user and converts it into square meters. Display the result with appropriate units. (Hint: 1 hectare = 10,000 square meters)
