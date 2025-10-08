@@ -38,3 +38,4 @@ Exercise
 
 14 write a program to calculate area of circle using given radius 
 
+15 write a program to do addition, subtraction, multiplication, division of two given number and display all operations result. 
