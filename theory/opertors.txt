@@ -71,10 +71,8 @@ use wise categories of operators
     *= can be as a*=b when we need write a = a * b
     /= can be as a/=b when we need write a = a / b
     %= can be as a%=b when we need write a = a % b
-    
 -----------------------------------------------------------------------
     unary operator
-
         1 operands and 1 operator
         a++  can be write as a = a + 1 (postfix)
             first assign and then increment 
@@ -84,10 +82,8 @@ use wise categories of operators
     b = 0 
     b = a  // 10 
     a= a + 1 // 11
-
     OR 
     b = a++ (postfix )
-    
     a = 10 
     b = 0 
 
