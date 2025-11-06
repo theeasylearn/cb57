@@ -8,12 +8,12 @@
 void  main()
 {
     int number;
-    number=1;
+    number=1; //initilization
     
-    while(number<=99)
+    while(number<=99) //condition
     {
         printf("%5d",number);
-        number=number+2;
+        number=number+2; //increment/decrement
     }
     
     printf("%3d",number);

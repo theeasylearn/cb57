@@ -39,3 +39,13 @@ Exercise
 14 write a program to calculate area of circle using given radius 
 
 15 write a program to do addition, subtraction, multiplication, division of two given number and display all operations result. 
+
+------------------------------------------------------------------------
+
+loop 
+while loop 
+1)     2   4   6   8   ....    200
+2)     1   8   27  64  125     .... 1000
+3)     1   -2  3   -4  5   -6  7 -8 ... -100
+4)     write a program to findout given number is prime number or not. 
+5)     write a program to findout given number is armstrong number or not. 
