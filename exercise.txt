@@ -63,3 +63,9 @@ input 241 2x2x2 4x4x4 1x1x1 = 8 + 64 + 1 = 73
 
 2) write a program to reverse given number 
 input : 12345 reverse 54321
+
+do while loop 
+-----------------
+A B C .... Z
+z x y .... a 
+A C E G I K M ..... Z 
