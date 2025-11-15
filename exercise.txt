@@ -69,3 +69,9 @@ do while loop
 A B C .... Z
 z x y .... a 
 A C E G I K M ..... Z 
+
+array
+
+// write a program to findout minimum value from array
+// write a program to count negative and positive value in float array of size 10 
+
