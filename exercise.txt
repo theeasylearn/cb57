@@ -75,3 +75,7 @@ array
 // write a program to findout minimum value from array
 // write a program to count negative and positive value in float array of size 10 
 
+String 
+write a program to cound words in given string
+input : hello how are you 
+output : 4
