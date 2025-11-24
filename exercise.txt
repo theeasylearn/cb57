@@ -79,3 +79,7 @@ String
 write a program to cound words in given string
 input : hello how are you 
 output : 4
+
+2d array 
+1) write a program to copy 2d integer array into another array 
+2) write a program to sum of all value in 2d array
