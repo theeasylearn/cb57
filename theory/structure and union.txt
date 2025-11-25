@@ -11,7 +11,8 @@ struct structure-name {
     datatype name;
     .............
 };
-
+we must create structure before void main function. 
+example
 struct student 
 {
     //member variable 
