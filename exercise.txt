@@ -83,3 +83,12 @@ output : 4
 2d array 
 1) write a program to copy 2d integer array into another array 
 2) write a program to sum of all value in 2d array
+
+structure
+create structure that will store below detail about course
+   name, duration, fees (float)
+
+create array of structure that will store below detail about course
+   name, duration, fees (float)
+   size of array should be 5 
+
