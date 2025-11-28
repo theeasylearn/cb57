@@ -6,14 +6,14 @@
 struct Student
 {
     // member variable
-    char name[30];
+    char name[30]; //array within structure
     int age;
     float weight;
     char gender;
 }; // 30+2+4+1 = 37
 void main()
 {
-    // create structure type array
+    // create structure type array of structure
     struct Student list[SIZE];
     int i;
     for (i = 0; i < SIZE; i++) // 0 1 2 3 4 5
