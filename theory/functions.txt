@@ -2,34 +2,55 @@ What is functions?
     function is named program in c language that can be executed/run/called from main program as well as other functions.
     each and every function has 
         1 return type (optional)
-        2 name (required)
+        2 name (compulsory)
         3 inputs (optional)
-        4 body (block of code) (required)
+        4 body (block of code) (compulsory)
 
-    each and every function should do only one task. the main idea of using function is not to repeat code in program. if we repeat code there will be many issue while updating code. but if we use functions code will be shorter, easy to understand and easy to change. 
+    each and every function should do only one task.
+    we create function not not to repeat same code in program. 
+    if we repeat code there will be many issue while updating code. 
+    but if we use functions then  code will be shorter, easy to understand and easy to change. 
     function can return at most 1 value.
 
     types of function
         Library function 
             functions which are provide by c language Library is called Library function 
-            such as printf, scanf, fflush(stdin) etc 
+            such as printf, scanf, fflush(stdin) etc.
+
         User defined function (U.D.F) 
             function developed by developer(user) is called user defined function.
-            there are 4 types of U.D.F.
-                1   without return value without argument function 
-                2   without return value with argument function 
-                3   with return value without argument function 
-                3   with return value with argument function 
-        how to create function 
+            1st we have to create user define function, then only we can use it. 
 
+            there are 4 types of U.D.F.
+                1   without return value without argument(input) function 
+                    function that return nothing and has no argument is called without return value without argument function 
+
+                2   without return value with argument(input) function 
+                    function that return nothing and has one or more arguments is called without return value with argument function.    
+
+                3   with return value without argument function
+                    function that return value and has no arguments is called with return value without argument function
+
+                4   with return value with argument function 
+                    function that return value and has one or more arguments is called with return value without argument function.
+
+        how to create/define user defined function 
         syntax 
         -----------------------------------
-        return type function-name(arguments)
+        return type(int/float/char/void) function-name(arguments)
         {
-            code...
+            code
+                variable declare
+                decision making 
+                loop 
+                function call 
         }
+
         how to use/call/run/execute 
-        function-name();
+        syntax
+        ---------------------------------
+        function-name(arguments);
+
 what is recursion?
 ---------------------
 when function call it self repeatedly until some condition is evaluated as false, is called recursion.
