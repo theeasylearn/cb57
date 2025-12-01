@@ -50,7 +50,17 @@ What is functions?
         syntax
         ---------------------------------
         function-name(arguments);
+what is pass by value in function. 
+    when we pass arguments in function, function always received copy of arguments. it means we change value of arguments, it will not change original variables because function received copy of argument not actual variable that is called pass by value. 
 
+    always function can return at most one value 
+
+what is pass by reference?
+ pass by reference means passing address of variable when we call function. in that case function should have argument name starting with *(astrik) when we define function. by doing this we can directly modify arguments value into function and it will update original variable's value. 
+
+ it is useful when we want to create function that return multiple value. 
+
+ 
 what is recursion?
 ---------------------
 when function call it self repeatedly until some condition is evaluated as false, is called recursion.
