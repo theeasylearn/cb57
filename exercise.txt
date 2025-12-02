@@ -92,3 +92,20 @@ create array of structure that will store below detail about course
    name, duration, fees (float)
    size of array should be 5 
 
+functions
+----------------------
+
+ functions 
+ ----------------------
+ 1) write a program to crate function that return interest of given amount, rate, year supplied as input 
+
+ 2) write a program to create function that return total of five integer numbers given as arguments 
+ 
+ 3) write a program to that return square of given number.
+
+ 4) write a program to that return qube of given number.
+
+
+ 5) write a program to display given decimal number into octal number system.
+
+ 6) write a program to display given decimal number into hexadecimal number system.

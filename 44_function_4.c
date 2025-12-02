@@ -7,6 +7,8 @@ void verifyMarks(int marks[])
 {
     for(int i=0;i<SIZE;i++)
     {
+        if(marks[i]<0)
+            marks[i] =  0 - marks[i];
         printf("\n %d",marks[i]); //-50
         //put your logic here that convert negative number into positive 
     }
@@ -14,6 +16,5 @@ void verifyMarks(int marks[])
 void main()
 {
    int marks[SIZE] = {-50,-48,10,25,-30};
-   verifyMarks(marks); 
-   
+   verifyMarks(marks);   
 }
