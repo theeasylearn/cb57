@@ -8,6 +8,7 @@ struct Student
     float weight;
     char gender;
 }; // 30+2+4+1 = 37
+
 void main()
 {
     // create structure type variable
@@ -51,6 +52,4 @@ void main()
     printf("\n Student age %d", s2.age);
     printf("\n Student weight %.2f", s2.weight);
     printf("\n Student gender %c", s2.gender);
-
-
 }
