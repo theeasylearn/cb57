@@ -2,7 +2,6 @@
 // number = 63 -> six three
 // number = 100 -> one zero zero
 #include <stdio.h>
-
 void intoWords(int number)
 {
     if (number > 0)
